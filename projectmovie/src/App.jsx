@@ -4,7 +4,7 @@
 import './css/App.css'
 import Home from './page/Home'
 import {Route,Routes} from 'react-router-dom'
-import Navbar from './Component/navbar'
+import Navbar from './Component/Navbar'
 import { MovieProvider } from './Context/MoviesContent'
 import Favorites from './page/Favorites'
 import './css/MovieCard.css'
